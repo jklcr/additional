@@ -145,7 +145,6 @@ CETV早期教育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch0000009099000000
 茶频道,http://118.251.98.20:8188/udp/239.76.252.239:9000
 茶频道,http://110.178.145.150:8188/udp/239.1.1.77:8077
 茶频道,http://36.49.50.173:8800/rtp/239.37.0.245:5540
-茶频道,http://111.56.90.5/000000000000/5000000011000031209/index.m3u8
 茶频道,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8
 快乐垂钓,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
 嘉佳卡通,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001227/index.m3u8
@@ -262,10 +261,6 @@ CHC影迷电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001
 晴彩青少,http://111.56.90.5/000000000000/3000000020000031315/index.m3u8
 咪咕4k,http://111.56.90.5/000000000000/3000000010000005180/1.m3u8
 至臻视界,http://111.56.90.5/000000000000/3000000010000015686/1.m3u8
-睛彩竞技,https://www.9kds.com/d/msj.php?id=3000000020000011528&kl=www.9kds.com
-睛彩篮球,https://www.9kds.com/d/msj.php?id=3000000020000011529&kl=www.9kds.com
-睛彩青少,https://www.9kds.com/d/msj.php?id=3000000020000011525&kl=www.9kds.com
-睛彩广场舞,https://www.9kds.com/d/msj.php?id=3000000020000011523&kl=www.9kds.com
 睛彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011528
 睛彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011529
 睛彩青少,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011525
