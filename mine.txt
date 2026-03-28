@@ -187,6 +187,7 @@ CHC影迷电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001
 文化精品,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001670/index.m3u8
 卫生健康,http://119.91.7.169:1777/216.75.129.13.php?id=34
 电视指南,http://119.91.7.169:1777/216.75.129.13.php?id=31
+中国电影频道,http://iptv.4666888.xyz/iptv2A.php?id=61
 1905电影网流金岁月,https://cdn.jdshipin.com/1905.php
 1905电影网流金岁月,http://129.211.14.102:25000/1905.php?t=1&id=LIVEOYY31H24H48NE&token=www.9kds.com
 1905电影网环球经典,http://129.211.14.102:25000/1905.php?t=1&id=LIVE8J4LTCXPI7QJ5_261&token=www.9kds.com
@@ -308,6 +309,7 @@ VIUTVSIX,http://156.238.248.80:8880/play/633.179412.m3u8
 龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
 龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
 龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
 龙华电影,http://156.238.248.80:8880/play/689.534724.m3u8
 龙华戏剧,http://156.238.248.80:8880/play/690.952114.m3u8
 龙华日韩,http://156.238.248.80:8880/play/691.166014.m3u8
