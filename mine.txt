@@ -262,7 +262,7 @@ CHC影迷电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 华丽台,http://rihou.cc:555/tv/[Pd]无线华丽
 明珠台,http://rihou.cc:555/tv/[Pd]无线明珠
-无线星河,http://rihou.cc:555/tv/[Pd]无线星河
+TVB星河,http://rihou.cc:555/tv/[Pd]无线星河
 无线功夫,http://rihou.cc:555/tv/[Pd]无线功夫
 澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
 澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
@@ -279,6 +279,21 @@ CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
 CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
 CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 八度空间,http://rihou.cc:555/tv/[Pd]八度空间
+翡翠台,http://156.238.248.80:8880/play/629.387004.m3u8
+TVBPlus,http://156.238.248.80:8880/play/630.709774.m3u8
+明珠台,http://156.238.248.80:8880/play/631.859001.m3u8
+VIUTV,http://156.238.248.80:8880/play/632.621085.m3u8
+VIUTVSIX,http://156.238.248.80:8880/play/633.179412.m3u8
+TVB星河,http://156.238.248.80:8880/play/634.228331.m3u8
+天映新加坡,http://156.238.248.80:8880/play/635.682896.m3u8
+千禧经典台,http://156.238.248.80:8880/play/636.386373.m3u8
+天映频道,http://156.238.248.80:8880/play/637.736212.m3u8
+天映经典频道,http://156.238.248.80:8880/play/638.865134.m3u8
+ASTROAOD,http://156.238.248.80:8880/play/639.373920.m3u8
+ASTROAEC,http://156.238.248.80:8880/play/640.868192.m3u8
+ASTRO欢喜台,http://156.238.248.80:8880/play/641.330072.m3u8
+IQIYI,http://156.238.248.80:8880/play/642.458286.m3u8
+
 
 ⚽️咪咕频道,#genre#
 晴彩竞技,http://111.56.90.5/000000000000/3000000020000011528/index.m3u8
