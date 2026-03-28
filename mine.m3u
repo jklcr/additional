@@ -235,9 +235,9 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001570/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001580/index.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" group-title="数字频道",CHC影迷电影
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001581/index.m3u8
-#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" group-title="数字频道",CCTV女性时尚
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" group-title="数字频道",女性时尚
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001571/index.m3u8
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" group-title="数字频道",CCTV风云足球
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" group-title="数字频道",风云足球
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001590/index.m3u8
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" group-title="数字频道",央视台球
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001600/index.m3u8
@@ -279,34 +279,8 @@ http://111.56.90.5/000000000000/3000000020000031315/index.m3u8
 http://111.56.90.5/000000000000/3000000010000005180/1.m3u8
 #EXTINF:-1 tvg-id="至臻视界" tvg-name="至臻视界" group-title="咪咕频道",至臻视界
 http://111.56.90.5/000000000000/3000000010000015686/1.m3u8
-#EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-name="北京IPTV淘剧场" group-title="北京淘系列",北京IPTV淘剧场
-http://otangtang.com:38848/udp/239.3.1.95:8001
-#EXTINF:-1 tvg-id="北京IPTV淘娱乐" tvg-name="北京IPTV淘娱乐" group-title="北京淘系列",北京IPTV淘娱乐
-http://otangtang.com:38848/udp/239.3.1.100:8001
-#EXTINF:-1 tvg-id="北京IPTV萌宠" tvg-name="北京IPTV萌宠" group-title="北京淘系列",北京IPTV萌宠
-http://otangtang.com:38848/udp/239.3.1.102:8001
-#EXTINF:-1 tvg-id="北京IPTV淘BABY" tvg-name="北京IPTV淘BABY" group-title="北京淘系列",北京IPTV淘BABY
-http://otangtang.com:38848/udp/239.3.1.238:8001
-#EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" group-title="北京淘系列",北京IPTV4K超清
-http://otangtang.com:38848/udp/239.3.1.249:8001
-#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" group-title="北京淘系列",北京IPTV淘电影
-http://otangtang.com:38848/udp/239.3.1.250:8001
-#EXTINF:-1 tvg-id="北京淘系列重温经典" tvg-name="北京淘系列重温经典" group-title="北京淘系列",北京淘系列重温经典
-http://otangtang.com:38848/udp/239.3.1.25:8001
-#EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-name="北京IPTV淘剧场" group-title="北京淘系列",北京IPTV淘剧场
-http://quan2018.mycloudnas.com:9000/udp/239.3.1.95:8001
-#EXTINF:-1 tvg-id="北京IPTV淘娱乐" tvg-name="北京IPTV淘娱乐" group-title="北京淘系列",北京IPTV淘娱乐
-http://quan2018.mycloudnas.com:9000/udp/239.3.1.100:8001
-#EXTINF:-1 tvg-id="北京IPTV萌宠" tvg-name="北京IPTV萌宠" group-title="北京淘系列",北京IPTV萌宠
-http://quan2018.mycloudnas.com:9000/udp/239.3.1.102:8001
-#EXTINF:-1 tvg-id="北京IPTV淘BABY" tvg-name="北京IPTV淘BABY" group-title="北京淘系列",北京IPTV淘BABY
-http://quan2018.mycloudnas.com:9000/udp/239.3.1.238:8001
-#EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" group-title="北京淘系列",北京IPTV4K超清
-http://quan2018.mycloudnas.com:9000/udp/239.3.1.249:8001
-#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" group-title="北京淘系列",北京IPTV淘电影
-http://quan2018.mycloudnas.com:9000/udp/239.3.1.250:8001
-#EXTINF:-1 tvg-id="北京淘系列重温经典" tvg-name="北京淘系列重温经典" group-title="北京淘系列",北京淘系列重温经典
-http://quan2018.mycloudnas.com:9000/udp/239.3.1.25:8001
+#EXTINF:-1 tvg-id="咪咕视频1" tvg-name="咪咕视频1" group-title="咪咕频道",咪咕视频1
+http://111.56.90.5/000000000000/3000000001000005308/1.m3u8
 #EXTINF:-1 tvg-id="Bestv赛事1" tvg-name="Bestv赛事1" group-title="Bestv",Bestv赛事1
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001151/index.m3u8
 #EXTINF:-1 tvg-id="Bestv赛事2" tvg-name="Bestv赛事2" group-title="Bestv",Bestv赛事2
