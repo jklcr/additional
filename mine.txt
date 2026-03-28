@@ -170,6 +170,7 @@ CETV早期教育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch0000009099000000
 💰付费频道,#genre#
 重温经典,http://cdn6.163189.xyz/163189/cwjd
 重温经典,http://8.138.7.223/tv/cwjd.php
+重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 CHC家庭影院,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001570/index.m3u8
 CHC动作电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001580/index.m3u8
 CHC影迷电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001581/index.m3u8
@@ -245,7 +246,7 @@ CHC影迷电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001
 北京IPTV淘BABY,http://221.220.132.211:8012/rtp/239.3.1.238:8001
 北京IPTV萌宠TV,http://221.220.132.211:8012/rtp/239.3.1.102:8001
 
-🇭🇰香港频道,#genre#
+🇭🇰港澳频道,#genre#
 凤凰中文,http://223.95.198.3:8000/hls/20/index.m3u8
 凤凰中文,http://110.178.145.150:8188/udp/239.1.1.126:8126
 凤凰中文,http://27.154.97.208:3386/rtp/239.61.2.184:9092
@@ -253,6 +254,31 @@ CHC影迷电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001
 凤凰资讯,http://27.154.97.208:3386/rtp/239.61.2.183:9086
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+有线新闻,http://rihou.cc:555/tv/[Pd]有线新闻
+有线综合,http://rihou.cc:555/tv/[Pd]有线综合
+有线亚剧,http://rihou.cc:555/tv/[Pd]有线亚剧
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
+翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
+华丽台,http://rihou.cc:555/tv/[Pd]无线华丽
+明珠台,http://rihou.cc:555/tv/[Pd]无线明珠
+无线星河,http://rihou.cc:555/tv/[Pd]无线星河
+无线功夫,http://rihou.cc:555/tv/[Pd]无线功夫
+澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳门体育,http://rihou.cc:555/tv/[Pd]澳门体育
+澳门综艺,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳门莲花,http://rihou.cc:555/tv/[Pd]澳门莲花
+央视综合,http://rihou.cc:555/tv/[Pd]央视综合
+龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
+CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
+八度空间,http://rihou.cc:555/tv/[Pd]八度空间
 
 ⚽️咪咕频道,#genre#
 晴彩竞技,http://111.56.90.5/000000000000/3000000020000011528/index.m3u8
