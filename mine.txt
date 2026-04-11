@@ -195,7 +195,7 @@ CHC影迷电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台广电,http://cdn6.163189.xyz/163189/fct
-无线新闻,https://cdn6.163189.xyz/163189/wxxw
+无线新闻台,https://cdn6.163189.xyz/163189/wxxw
 Now新闻,http://cdn.163189.xyz/163189/now
 娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 娱乐新闻,https://cdn6.163189.xyz/163189/ylxw
