@@ -200,13 +200,13 @@ Now新闻,http://cdn.163189.xyz/163189/now
 娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 娱乐新闻,https://cdn6.163189.xyz/163189/ylxw
 明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-明珠台,http://o11.163189.xyz/stream/tvb/mzt
+明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh
+TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
-千禧经典,https://o11.163189.xyz/stream/live/tvbc
+千禧经典,https://o11.163189.xyz/stream/live/tvbc/
 亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
 SUPER黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
 SUPER黄金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
@@ -224,7 +224,7 @@ CCTV1港澳版,http://cdn6.163189.xyz/163189/cctv1
 VIUTV,https://cdn10.163189.xyz/stream/163189/viu
 VIUTV,https://cdn.163189.xyz/163189/viu
 VIUTVSIX,https://cdn10.163189.xyz/stream/163189/viu6
-HOY76,https://cdn11.163189.xyz/163189/2c86601a7180416e
+HOY76,https://cdn11.163189.xyz/163189/2c86601a7180416e/
 HOY77,http://cdn6.163189.xyz/163189/hoy
 HOY77,http://cdn.163189.xyz/163189/hoy
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
@@ -313,19 +313,19 @@ TVBS欢乐,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqp
 
 🇸🇬新马频道,#genre#
 华丽翡翠,http://rihou.cc:555/tv/[Pd]无线华丽
-华丽翡翠,https://o11.163189.xyz/stream/live/hlt
+华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
 华丽翡翠,https://smt.1678520.xyz/smt3.2.3.php?id=Tvbjade$马来
 华丽翡翠,http://iptv.4666888.xyz/iptv2A.php?id=28
-华丽翡翠(新加坡),http://o11.163189.xyz/stream/live/jade
+华丽翡翠(新加坡),http://o11.163189.xyz/stream/live/jade/
 天映新加坡,https://cdn10.163189.xyz/stream/163189/typd
-天映频道,http://o11.163189.xyz/stream/live/typd
+天映频道,http://o11.163189.xyz/stream/live/typd/
 天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
-Astro 酷哒哒,https://o11.163189.xyz/stream/live/test
-ASTRO AOD,http://o11.163189.xyz/stream/live/aod
-ASTRO AEC,http://o11.163189.xyz/stream/live/aec
-ASTRO QJ,http://o11.163189.xyz/stream/live/qj
-ASTRO 欢喜台,http://o11.163189.xyz/stream/live/hxt
-iQIYI,http://o11.163189.xyz/stream/live/iqiyi
+Astro 酷哒哒,https://o11.163189.xyz/stream/live/test/
+ASTRO AOD,http://o11.163189.xyz/stream/live/aod/
+ASTRO AEC,http://o11.163189.xyz/stream/live/aec/
+ASTRO QJ,http://o11.163189.xyz/stream/live/qj/
+ASTRO 欢喜台,http://o11.163189.xyz/stream/live/hxt/
+iQIYI,http://o11.163189.xyz/stream/live/iqiyi/
 iQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
 八度空间,http://cdn6.163189.xyz/163189/8tv
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
