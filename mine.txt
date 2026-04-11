@@ -432,7 +432,6 @@ CH8,http://rihou.cc:555/tv/[Pd]CH8综合
 咪视通35,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000031669/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 
 🎨埋堆堆直播,#genre#
-天龙八部,https://live.ottiptv.cc/huya/29981376
 楚汉骄雄,https://live.ottiptv.cc/huya/29465854
 封神榜,https://live.ottiptv.cc/huya/29465849
 西游记2,https://live.ottiptv.cc/huya/29465859
