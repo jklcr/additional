@@ -192,35 +192,54 @@ CHC影迷电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
+翡翠台4K,http://rihou.cc:555/tv/[PL]无线翡4k
+翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台广电,http://cdn6.163189.xyz/163189/fct
 无线新闻台,https://cdn6.163189.xyz/163189/wxxw
 Now新闻,http://cdn.163189.xyz/163189/now
 娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
 娱乐新闻,https://cdn6.163189.xyz/163189/ylxw
-明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
+明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt
+明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB星河,https://cdn10.163189.xyz/stream/163189/xinghe
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
+TVB星河,https://cdn6.101.qzz.io/163189/tvbxh
+TVB星河,http://rihou.cc:555/tv/[Pd]无线星河
+TVB星河,http://rihou.cc:555/tv/[PL]无线星河
+TVB星河,http://r.jdshipin.com/Voac4
 千禧经典,https://o11.163189.xyz/stream/live/tvbc/
+千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
 亚洲武侠,https://cdn6.163189.xyz/163189/yzwx
+亚洲武侠,http://rihou.cc:555/tv/[Pd]无线功夫
+亚洲武侠,https://cdn6.101.qzz.io/163189/yzwx
 SUPER黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
 SUPER黄金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
 myTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=24
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVBJ1,https://6.cdn.loc.cc/163189.php?id=j1
+TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 翡翠剧集,http://iptv.4666888.xyz/iptv2A.php?id=33
 SUPER奖门人,http://iptv.4666888.xyz/iptv2A.php?id=31
 SUPER金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
+RTHK 31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK 31,http://rihou.cc:555/tv/[PL]RTHK-31
 RTHK 31,http://iptv.4666888.xyz/iptv2A.php?id=23
 RTHK 31,http://cdn.163189.xyz/163189/rthk31
 RTHK 32,http://cdn.163189.xyz/163189/rthk32
+RTHK 32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RTHK 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 CCTV1港澳版,http://cdn6.163189.xyz/163189/cctv1
+ViuTV,https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.m3u8
 VIUTV,https://cdn10.163189.xyz/stream/163189/viu
 VIUTV,https://cdn.163189.xyz/163189/viu
 VIUTVSIX,https://cdn10.163189.xyz/stream/163189/viu6
