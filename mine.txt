@@ -279,7 +279,6 @@ HOY78,http://rihou.cc:555/tv/[Pd]有线新闻
 无线新闻台,http://rihou.cc:555/tv/[Pd]无线新闻
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 华丽翡翠台,http://rihou.cc:555/tv/[Pd]无线华丽
-明珠台,http://rihou.cc:555/tv/[Pd]无线明珠
 TVB星河,http://rihou.cc:555/tv/[Pd]无线星河
 亚洲武侠,http://rihou.cc:555/tv/[Pd]无线功夫
 澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
