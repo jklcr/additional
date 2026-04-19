@@ -239,6 +239,7 @@ CCTV1港澳版,http://cdn6.163189.xyz/163189/cctv1
 ViuTV,https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.m3u8
 ViuTV,https://cdn10.163189.xyz/stream/163189/viu/
 VIUTVSIX,https://cdn10.163189.xyz/stream/163189/viu6/
+VIUTVSIX,https://stream1.freetv.fun/c34b453ddb57c4641e22202a5d868b398148f0d4f86cc98beccb2f49ebcd755a.ctv
 HOY76,https://cdn11.163189.xyz/163189/2c86601a7180416e/
 HOY77,http://cdn6.163189.xyz/163189/hoy
 HOY77,http://cdn.163189.xyz/163189/hoy
