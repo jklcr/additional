@@ -189,8 +189,11 @@ CHC影迷电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001
 
 🇭🇰港澳频道,#genre#
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
+凤凰中文,https://stream1.freetv.fun/c8ad10f8d135ebbea6b77779874c1d8a6da07d925786ac11f855c0dfa87b4487.m3u8
+凤凰中文,https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+凤凰资讯,https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 翡翠台4K,http://rihou.cc:555/tv/[PL]无线翡4k
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
