@@ -121,7 +121,32 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001225/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",兵团卫视
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8
-
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://logo.catvod.com/金色学堂.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",金色学堂
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://logo.catvod.com/纪实人文.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",纪实人文
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001019/index.m3u8
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://logo.catvod.com/生活时尚.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",生活时尚
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://logo.catvod.com/乐游.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",乐游
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://logo.catvod.com/都市剧场.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",都市剧场
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8
+#EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://logo.catvod.com/多彩文体.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",多彩文体
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://logo.catvod.com/金鹰纪实.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",金鹰纪实
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",金鹰卡通
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001460/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://logo.catvod.com/卡酷少儿.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",卡酷少儿
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001245/index.m3u8
+#EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://logo.catvod.com/中国教育-1.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",中国教育-1
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8
+#EXTINF:-1 tvg-name="中国教育-2" tvg-logo="https://logo.catvod.com/中国教育-2.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",中国教育-2
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001226/index.m3u8
+#EXTINF:-1 tvg-name="中国教育-4" tvg-logo="https://logo.catvod.com/中国教育-4.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",中国教育-4
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://logo.catvod.com/早期教育.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",早期教育
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001680/index.m3u8
 
 
 
@@ -162,8 +187,7 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001690/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001039/index.m3u8
 #EXTINF:-1 tvg-name="东方购物-2" tvg-logo="https://logo.catvod.com/东方购物-2.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",东方购物-2
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001040/index.m3u8
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://logo.catvod.com/金色学堂.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",金色学堂
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
+
 #EXTINF:-1 tvg-name="央广购物" tvg-logo="https://logo.catvod.com/央广购物.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",央广购物
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://logo.catvod.com/东方财经.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",东方财经
@@ -172,32 +196,18 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001219/index.m3u8
 
 
-#EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://logo.catvod.com/中国教育-1.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",中国教育-1
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8
 
 
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://logo.catvod.com/金鹰纪实.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",金鹰纪实
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8
-#EXTINF:-1 tvg-name="中国教育-4" tvg-logo="https://logo.catvod.com/中国教育-4.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",中国教育-4
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",金鹰卡通
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001460/index.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://logo.catvod.com/卡酷少儿.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",卡酷少儿
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001245/index.m3u8
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://logo.catvod.com/都市剧场.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",都市剧场
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8
-#EXTINF:-1 tvg-name="多彩文体" tvg-logo="https://logo.catvod.com/多彩文体.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",多彩文体
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
+
+
+
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://logo.catvod.com/法治天地.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",法治天地
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://logo.catvod.com/动漫秀场.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",动漫秀场
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://logo.catvod.com/游戏风云.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",游戏风云
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://logo.catvod.com/生活时尚.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",生活时尚
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://logo.catvod.com/乐游.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",乐游
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8
+
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://logo.catvod.com/快乐垂钓.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",快乐垂钓
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC家庭影院.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",CHC家庭影院
@@ -228,5 +238,4 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001621/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001660/index.m3u8
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://logo.catvod.com/央视文化精品.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",央视文化精品
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001670/index.m3u8
-#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://logo.catvod.com/早期教育.png" group-title="未分组" catchup="append" catchup-source="?starttime=${(b)yyyyMMdd|UTC}T${(b)HHmmss|UTC}&endtime=${(e)yyyyMMdd|UTC}T${(e)HHmmss|UTC}",早期教育
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001680/index.m3u8
+
