@@ -11,6 +11,7 @@ CCTV-4北美,http://144.255.16.170:6688/udp/239.21.2.29:5002
 CCTV-4欧洲,http://144.255.16.170:6688/udp/239.21.2.28:5002
 CCTV-5体育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8
 CCTV-5体育,http://183.129.255.66:8480/hls/5/index.m3u8
+CCTV-5+体育赛事,http://39.134.91.132:8112/000000000000/5000000011000031127/1.m3u8
 CCTV-5+体育赛事,http://118.122.144.115:8888/newlive/live/hls/16/live.m3u8
 CCTV-5+体育赛事,http://183.129.255.66:8480/hls/6/index.m3u8
 CCTV-6电影,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8
