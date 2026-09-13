@@ -59,9 +59,7 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 爱上4K,http://hook.msen.site:8000/rtp/235.254.198.102:7980
 爱上4K,http://hook.msen.site:8000/rtp/235.254.199.102:7980
 爱上4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.123:4056
-BesTV4K记录,http://www.imengu.cn:6666/udp/233.50.200.182:5140
-BesTV4K电影,http://www.imengu.cn:6666/udp/233.50.200.185:5140
-BesTV4K动画,http://www.imengu.cn:6666/udp/233.50.200.183:5140
+
 
 📡卫视频道,#genre#
 北京卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8
