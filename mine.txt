@@ -35,7 +35,6 @@ CCTV-15音乐,http://iptvrr.sh.chinamobile.com:6060/cms001/ch0000009099000000133
 CCTV-15音乐,http://183.129.255.66:8480/hls/16/index.m3u8
 CCTV-16奥林匹克,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8
 CCTV-16奥林匹克,http://183.129.255.66:8480/hls/17/index.m3u8
-CCTV-16奥林匹克4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
 CCTV-17农业农村,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8
 CCTV-17农业农村,http://183.129.255.66:8480/hls/18/index.m3u8
 CCTV-4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001451/index.m3u8
@@ -55,6 +54,8 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 东方卫视4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001641/index.m3u8
 山东卫视4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001582/index.m3u8
 江苏卫视4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001700/index.m3u8
+CCTV-16奥林匹克4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
+CCTV-4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001451/index.m3u8
 多彩文体4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001490/index.m3u8
 多彩文体4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
