@@ -1,5 +1,6 @@
 📺央视频道,#genre#
 CCTV-1综合,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
+CCTV-1综合,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001520/index.m3u8
 CCTV-1综合,http://183.129.255.66:8480/hls/1/index.m3u8
 CCTV-2财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV-2财经,http://183.129.255.66:8480/hls/2/index.m3u8
@@ -226,4 +227,3 @@ Bestv赛事8,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001150
 Bestv赛事9,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001152/index.m3u8
 Bestv赛事10,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001378/index.m3u8
 Bestv赛事11,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001398/index.m3u8
-Bestv赛事12,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001520/index.m3u8
