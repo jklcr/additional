@@ -55,8 +55,8 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 东方卫视4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001641/index.m3u8
 山东卫视4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001582/index.m3u8
 江苏卫视4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001700/index.m3u8
-多彩文体4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
 多彩文体4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001490/index.m3u8
+多彩文体4K,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
 南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 爱上4K,http://hook.msen.site:8000/rtp/235.254.198.102:7980
@@ -101,6 +101,7 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 西藏卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001072/index.m3u8
 兵团卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8
 延边卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001470/index.m3u8
+多彩文体,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
 CETV-1,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8
 CETV-2,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001226/index.m3u8
 CETV-4,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8
